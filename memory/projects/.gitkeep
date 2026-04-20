@@ -1,0 +1,11 @@
+# Per-project context
+
+Create one subdirectory per project:
+
+    memory/projects/<project-slug>/
+        context.md       # what this project is, who's involved, status
+        architecture.md  # technical shape (read on demand)
+        decisions.md     # key decisions and their rationale (ADR-lite)
+
+These files are NOT auto-loaded — read them when the agent enters a session
+focused on that project. Keep MEMORY.md and ACTIVE.md for cross-project facts.
