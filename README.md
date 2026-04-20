@@ -115,13 +115,13 @@ If you're looking for those, you want the template repo, not this one.
 
 ## Fork policy
 
-This is a reference, not a maintained product.
+This is a reference, not a maintained product. Take it, make it your own.
 
-- **Use this template** (green button above) — clones it into your account, no fork relationship, do whatever you want
-- **PRs:** typo fixes welcome, no SLA. Feature PRs will be closed — fork it instead
-- **Issues:** disabled. The README is the documentation; if you need more, the [article](https://svenschulte.ch/blog/harness-engineering) goes deeper
+- **Use this template** (green button above). Clones it into your account with no fork relationship. You own the copy, do whatever you want with it.
+- **PRs:** restricted to collaborators. If you want to improve something for yourself, fork the template and ship the change in your own fork.
+- **Issues:** disabled. The README is the documentation; if you need more, the [article](https://svenschulte.ch/blog/harness-engineering) goes deeper.
 
-The patterns in this repo evolve as the author uses them daily. The repo gets occasional refreshes when something changes meaningfully. It's not abandoned, but it's also not under active development.
+The patterns in this repo evolve as the author uses them daily. Occasional refreshes land when something changes meaningfully. Not abandoned, not under active development either.
 
 ## License
 
